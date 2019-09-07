@@ -1,4 +1,3 @@
-# kaggle_pandas
-Notebooks used to completed Kaggle Learn Pandas course
+# KAGGLE: Pandas
 
-http//kaggle.com/learn/pandas
+Jupyter Notebooks used to complete the [Pandas](http://kaggle.com/learn/pandas) course on Kaggle.
