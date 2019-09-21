@@ -14,5 +14,5 @@ Jupyter Nookbooks used to complete courses on [Kaggle](http://kaggle.com/gwcates
    - [Notebooks](intermediate_machine_learning/)
    - [Course Page](https://www.kaggle.com/learn/intermediate-machine-learning)
 1. Deep Learning
-   = [Notebook](deep_learning/)
+   - [Notebooks](deep_learning/)
    - [Course Page](https://www.kaggle.com/learn/deep-learning)
